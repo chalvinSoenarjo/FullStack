@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  
+  
+}
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a.active {
+  font-weight: bold;
+  color: crimson;
+}
+
+.logout,
+h4 {
+  cursor: pointer;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
